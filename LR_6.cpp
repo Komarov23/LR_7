@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     // Edited file
-    int max = 3;
+    int max = 4;
     float Y = 0;
     int x;
 
